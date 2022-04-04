@@ -10,6 +10,8 @@
   - [Date]()
   - [Miscellaneous]()
 
+- [Regex Patterns]()
+
 ---
 
 ## Temperature Conversions
@@ -48,3 +50,5 @@
 #### Date
 
 #### Miscellaneous
+
+## Regex Patterns
