@@ -8,6 +8,8 @@
 
 - [Regex Patterns](https://github.com/austintrujillo/knowledge-base/edit/main/README.md#regex-patterns)
 
+- [Dimensions]()
+
 - [Temperature Conversions](https://github.com/austintrujillo/knowledge-base/edit/main/README.md#temperature-conversions)
   - [Fahrenheit to Celsius](https://github.com/austintrujillo/knowledge-base/edit/main/README.md#fahrenheit-to-celsius)
   - [Celsius to Fahrenheit](https://github.com/austintrujillo/knowledge-base/edit/main/README.md#celsius-to-fahrenheit)
