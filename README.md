@@ -80,6 +80,20 @@
 
 ## Regex Patterns
 
+#### Python re sample
+
+```python
+import re
+
+pattern = 'this'
+text = 'Does this text match the pattern?'
+
+match = re.search(pattern, text)
+```
+
+#### US Phone Numbers
+`\+?\d?-?\s?\(?\d{3}\)?\s?-?\d{3}-?\d{4}`
+
 ## Temperature Conversions
 
 #### Fahrenheit to Celsius
