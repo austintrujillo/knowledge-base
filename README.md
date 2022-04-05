@@ -18,6 +18,14 @@
 
 ## Date & Time Patterns
 
+```python
+from datetime import datetime
+
+dt = datetime.now()
+
+print(dt.strftime('%a'))
+```
+
 #### Standards
 | Example | Pattern Name |
 | ----------- | ----------- |
